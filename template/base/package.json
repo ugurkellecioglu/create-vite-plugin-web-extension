@@ -1,9 +1,9 @@
 {
   "name": "vite-web-extension",
   "displayName": "Vite Web Extension",
-  "author": "@samrum/vite-plugin-web-extension",
+  "author": "@ugurkellecioglu/vite-plugin-web-extension",
   "version": "1.0.0",
-  "description": "A @samrum/vite-plugin-web-extension web extension",
+  "description": "A @ugurkellecioglu/vite-plugin-web-extension web extension",
   "type": "module",
   "scripts": {
     "build": "vite build",
@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@samrum/vite-plugin-web-extension": "^5.0.0",
+    "@ugurkellecioglu/vite-plugin-web-extension": "^5.0.0",
     "@types/chrome": "^0.0.254",
     "@types/webextension-polyfill": "^0.10.6",
     "vite": "^5.0.0",

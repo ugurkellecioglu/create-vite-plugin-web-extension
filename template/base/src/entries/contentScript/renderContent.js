@@ -12,7 +12,7 @@ export default async function renderContent(
 
   if (import.meta.hot) {
     const { addViteStyleTarget } = await import(
-      "@samrum/vite-plugin-web-extension/client"
+      "@ugurkellecioglu/vite-plugin-web-extension/client"
     );
 
     await addViteStyleTarget(shadowRoot);

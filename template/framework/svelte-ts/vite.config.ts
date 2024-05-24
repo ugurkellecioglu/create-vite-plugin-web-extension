@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import { svelte } from "@sveltejs/vite-plugin-svelte";
-import webExtension from "@samrum/vite-plugin-web-extension";
+import webExtension from "@ugurkellecioglu/vite-plugin-web-extension";
 import path from "path";
 import { getManifest } from "./src/manifest";
 

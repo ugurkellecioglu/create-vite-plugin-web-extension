@@ -1,10 +1,10 @@
 {
-  "name": "@samrum/create-vite-plugin-web-extension",
+  "name": "@ugurkellecioglu/create-vite-plugin-web-extension",
   "version": "2.1.0",
-  "description": "An easy way to start a Vite Web Extension project using @samrum/vite-plugin-web-extension",
+  "description": "An easy way to start a Vite Web Extension project using @ugurkellecioglu/vite-plugin-web-extension",
   "type": "module",
   "bin": {
-    "@samrum/create-vite-plugin-web-extension": "create.cjs"
+    "@ugurkellecioglu/create-vite-plugin-web-extension": "create.cjs"
   },
   "files": [
     "create.cjs",
@@ -52,13 +52,13 @@
     "typescript",
     "solid"
   ],
-  "author": "Ruben Medina <dev@rubenmedina.com>",
+  "author": "Ugur Kellecioglu <hello@ugurkellecioglu.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samrum/create-vite-plugin-web-extension.git"
+    "url": "git+https://github.com/ugurkellecioglu/create-vite-plugin-web-extension.git"
   },
   "bugs": {
-    "url": "https://github.com/samrum/create-vite-plugin-web-extension/issues"
+    "url": "https://github.com/ugurkellecioglu/create-vite-plugin-web-extension/issues"
   },
   "license": "MIT",
   "dependencies": {

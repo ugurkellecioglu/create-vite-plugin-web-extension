@@ -13,7 +13,7 @@ This template should help get you started developing a ${framework} web extensio
 
 ## Usage Notes
 
-The extension manifest is defined in \`src/manifest.js\` and used by \`@samrum/vite-plugin-web-extension\` in the vite config.
+The extension manifest is defined in \`src/manifest.js\` and used by \`@ugurkellecioglu/vite-plugin-web-extension\` in the vite config.
 
 Background, content scripts, options, and popup entry points exist in the \`src/entries\` directory. 
 
@@ -34,7 +34,7 @@ ${
     : ""
 }
 
-Refer to [@samrum/vite-plugin-web-extension](https://github.com/samrum/vite-plugin-web-extension) for more usage notes.
+Refer to [@ugurkellecioglu/vite-plugin-web-extension](https://github.com/ugurkellecioglu/vite-plugin-web-extension) for more usage notes.
 
 ## Customize configuration
 

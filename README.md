@@ -1,7 +1,7 @@
-# @samrum/create-vite-plugin-web-extension
+# @ugurkellecioglu/create-vite-plugin-web-extension
 
-[![npm version](https://img.shields.io/npm/v/@samrum/create-vite-plugin-web-extension)](https://www.npmjs.com/package/@samrum/create-vite-plugin-web-extension)
-[![node compatibility](https://img.shields.io/node/v/@samrum/create-vite-plugin-web-extension)](https://nodejs.org/en/about/releases/)
+[![npm version](https://img.shields.io/npm/v/@ugurkellecioglu/create-vite-plugin-web-extension)](https://www.npmjs.com/package/@ugurkellecioglu/create-vite-plugin-web-extension)
+[![node compatibility](https://img.shields.io/node/v/@ugurkellecioglu/create-vite-plugin-web-extension)](https://nodejs.org/en/about/releases/)
 
 An easy way to start a Vite Web Extension project
 
@@ -20,7 +20,7 @@ An easy way to start a Vite Web Extension project
 ## Usage
 
 ```sh
-npm init @samrum/vite-plugin-web-extension@latest
+npm init @ugurkellecioglu/vite-plugin-web-extension@latest
 ```
 
 Check the readme in the generated project for more usage instructions.

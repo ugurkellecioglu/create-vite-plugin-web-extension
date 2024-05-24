@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-import webExtension from "@samrum/vite-plugin-web-extension";
+import webExtension from "@ugurkellecioglu/vite-plugin-web-extension";
 import path from "path";
 import { getManifest } from "./src/manifest";
 
