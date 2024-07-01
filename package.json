@@ -1,6 +1,6 @@
 {
   "name": "@ugurkellecioglu/create-vite-plugin-web-extension",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "An easy way to start a Vite Web Extension project using @ugurkellecioglu/vite-plugin-web-extension",
   "type": "module",
   "bin": {
